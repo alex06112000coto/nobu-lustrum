@@ -1,0 +1,18 @@
+{
+  "name": "Nobu Lustrumreis",
+  "short_name": "Nobu",
+  "description": "De officiële en private app voor de Nobu lustrumreis.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#00E800",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "nobu logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
